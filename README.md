@@ -1,2 +1,6 @@
+## 🏆 My Codeforces Stats
 
-![Solved](https://codeforces-readme-stats.vercel.app/api/solved?username=FreeSaladEggs)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=FreeSaladEggs&theme=dark)
+
+### 📊 Problem Tags
+![Codeforces Tags](https://cfstats.vercel.app/api/tags?handle=FreeSaladEggs)
